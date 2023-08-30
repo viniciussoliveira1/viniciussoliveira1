@@ -1,8 +1,8 @@
 ### Olá, tudo certo?? 👋
 ##
 <div>
-         <a href="https://www.instagram.com/_lsvinicius/" target="_blank"><img height=15 width=20 src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-         <a href="#" target="_blank"><img height=15 width=20 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+         <a href="https://www.instagram.com/_lsvinicius/" target="_blank"><img height=20 width=30 src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+         <a href="#" target="_blank"><img height=20 width=20 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 Sou Luís Vinícius, atualmente estou cursando Sistemas de Informação pela Universidade Federal Rural de Pernambuco, procuro evoluir e aprender a cada dia.
 Comecei na programação estudando Java, e desenvolvi alguns projetos básicos utilizando python.
